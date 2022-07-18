@@ -1,5 +1,6 @@
 import unittest
-from list1 import list1
+# from list1
+import list1
 
 
 class List1Test(unittest.TestCase):

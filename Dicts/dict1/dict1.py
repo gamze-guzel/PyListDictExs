@@ -57,7 +57,7 @@ def get_key_of_min_value(ddd):
     Get the key of the minimum value from a dictionary
     """
     # Can I do this with lambdas?
-    min_value= min(ddd, key=ddd.get)
+    min_value = min(ddd, key=ddd.get)
     return min_value
 
 
